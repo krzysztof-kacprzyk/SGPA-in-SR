@@ -1,0 +1,3 @@
+[submodule "gplearn-sgpa"]
+	path = gplearn-sgpa
+	url = https://github.com/krzysztof-kacprzyk/gplearn-sgpa.git
