@@ -1,3 +1,6 @@
 [submodule "gplearn-sgpa"]
 	path = gplearn-sgpa
 	url = https://github.com/krzysztof-kacprzyk/gplearn-sgpa.git
+[submodule "pmlb"]
+	path = pmlb
+	url = https://github.com/EpistasisLab/pmlb.git
