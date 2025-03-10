@@ -47,5 +47,9 @@ Comparison with XAI techniques can be found in `Comparison.ipynb`.
 
 You can run the SimplEq experiments by running `SimplEqExperiments.ipynb`.
 
+### Correlation experiments
+
+You can run the correlation experiments by running `Correlation.ipynb`.
+
 
 
