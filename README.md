@@ -23,6 +23,11 @@ Then navigate to gplearn_sgpa folder and run the following command to install gp
 pip install -e .
 ```
 
+Then navigate to pmlb folder and run the following command to install pmlb.
+```
+pip install -e .
+```
+
 ### Run the gplearn experiment
 
 Navigate and to `gplearn_sgpa/experiments` and run:
@@ -31,4 +36,16 @@ python run_scripts/run_all.py
 ```
 
 The results will be saved in `gplearn_sgpa/experiments/results`.
+
+### Notebooks with examples
+
+Example usage of SGPA module can be found in `Examples.ipynb`.
+
+Comparison with XAI techniques can be found in `Comparison.ipynb`.
+
+### SimplEq experiments
+
+You can run the SimplEq experiments by running `SimplEqExperiments.ipynb`.
+
+
 
